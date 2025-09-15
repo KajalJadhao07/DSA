@@ -29,7 +29,7 @@ int main() {
     root -> right -> left = new Node(6);
     root -> right -> right = new Node(7);
 
-    cout << "Inorder traversal: ";
+    cout << "Preorder traversal: ";
     preorder(root);
     cout << endl;
 
