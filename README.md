@@ -37,3 +37,18 @@ You can also find my LeetCode profile here: [kj_07 on LeetCode](https://leetcode
 	g++ InorderTraversal.cpp -o inorder
 	./inorder
 	```
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/KajalJadhao07/DSA/tree/master/1840-maximum-building-height) |
+## Math
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/KajalJadhao07/DSA/tree/master/1840-maximum-building-height) |
+## Sorting
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/KajalJadhao07/DSA/tree/master/1840-maximum-building-height) |
+<!---LeetCode Topics End-->
