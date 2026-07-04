@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KajalJadhao07/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/KajalJadhao07/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/KajalJadhao07/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/KajalJadhao07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/KajalJadhao07/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KajalJadhao07/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/KajalJadhao07/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KajalJadhao07/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/KajalJadhao07/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
