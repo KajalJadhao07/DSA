@@ -1,22 +1,22 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int cnt = 0;
-        stack<char> stk;
+        int pos_cnt = 0;
+        int moves = 0;
 
         for(char ch : s){
             if(ch == '('){
-                stk.push(ch);
+                pos_cnt++;
             }else{
-                if(stk.empty()){
-                    cnt++;
+                if(pos_cnt > 0){
+                    pos_cnt--;
                 }else{
-                    stk.pop();
+                    moves++;
                 }
             }
         }
 
-        return cnt + stk.size();
+        return pos_cnt + moves;
 
     }
 };
