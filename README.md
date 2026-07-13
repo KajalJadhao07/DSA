@@ -149,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/KajalJadhao07/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KajalJadhao07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KajalJadhao07/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/KajalJadhao07/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
