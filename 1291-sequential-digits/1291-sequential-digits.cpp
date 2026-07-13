@@ -16,19 +16,17 @@ public:
         int maxDigits = get_digits(high);
         vector<int> ans;
         
-        for(int len = minDigits; len <= maxDigits; len++){
+        string s = "123456789";
 
-            for(int start = 1; start <= 10 - len; start++){
+        for(int len = minDigits; len <= maxDigits; len++) {
+            for(int start = 0; start + len <= 9; start++) {
 
-                int num = 0;
+                string temp = s.substr(start, len);
 
-                for(int d = start; d < start + len; d++){
-                    num = num * 10 + d;
-                }
+                int num = stoi(temp);
 
-                if(num >= low && num <= high){
+                if(num >= low && num <= high)
                     ans.push_back(num);
-                }
             }
         }
         return ans;
