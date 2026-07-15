@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KajalJadhao07/DSA/tree/master/0013-roman-to-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KajalJadhao07/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KajalJadhao07/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KajalJadhao07/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String Matching
 |  |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KajalJadhao07/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KajalJadhao07/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KajalJadhao07/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
