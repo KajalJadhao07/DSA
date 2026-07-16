@@ -5,26 +5,17 @@ public:
         int n = nums.size();
         vector<int>res(n);
 
-        for(int i = n-1; i>=0; i--){
-            while(!stk.empty() && stk.top() <= nums[i]){
+        for(int i = (2*n)-1; i>=0; i--){
+            while(!stk.empty() && stk.top() <= nums[i%n]){
                 stk.pop();
             }
-            stk.push(nums[i]);
+            if(i<n){
+                res[i]=stk.empty()?-1:stk.top();
+            }
+            stk.push(nums[i%n]);
         }
 
-        for(int i = n-1; i>=0; i--){
-            while(!stk.empty() && stk.top() <= nums[i]){
-                stk.pop();
-            }
-
-            if(!stk.empty()){
-                res[i] = stk.top(); 
-            }else{
-                res[i] = -1;
-            }
-            stk.push(nums[i]);
-        }
-
+        
         return res;
     }
 };
