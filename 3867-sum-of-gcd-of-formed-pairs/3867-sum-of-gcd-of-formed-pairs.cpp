@@ -7,17 +7,12 @@ public:
         return get_gcd(num2, num1 % num2);
     }
     long long gcdSum(vector<int>& nums) {
-        vector<int> ps(nums.size(), 0);
         vector<int>gcd(nums.size());
+        int mx = nums[0];
 
         for(int i=0; i<nums.size(); i++){
-            if(i == 0){
-                ps[i] = nums[i];
-                gcd[i] = get_gcd(nums[i], ps[i]);
-                continue;
-            }
-            ps[i] = max(ps[i-1], nums[i]);
-            gcd[i] = get_gcd(ps[i], nums[i]);
+            mx = max(mx, nums[i]);
+            gcd[i] = get_gcd(mx, nums[i]);
         }
 
         sort(gcd.begin(), gcd.end());
