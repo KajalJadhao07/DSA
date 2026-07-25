@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KajalJadhao07/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/KajalJadhao07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/KajalJadhao07/DSA/tree/master/1288-remove-covered-intervals) |
+| [3536-maximum-product-of-two-digits](https://github.com/KajalJadhao07/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KajalJadhao07/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KajalJadhao07/DSA/tree/master/0013-roman-to-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KajalJadhao07/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KajalJadhao07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/KajalJadhao07/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KajalJadhao07/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KajalJadhao07/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KajalJadhao07/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
