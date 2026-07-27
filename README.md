@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KajalJadhao07/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/KajalJadhao07/DSA/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KajalJadhao07/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KajalJadhao07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KajalJadhao07/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/KajalJadhao07/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/KajalJadhao07/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -150,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/KajalJadhao07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KajalJadhao07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/KajalJadhao07/DSA/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KajalJadhao07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KajalJadhao07/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KajalJadhao07/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/KajalJadhao07/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KajalJadhao07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
