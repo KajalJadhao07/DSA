@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/KajalJadhao07/DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/KajalJadhao07/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/KajalJadhao07/DSA/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/KajalJadhao07/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/KajalJadhao07/DSA/tree/master/0511-game-play-analysis-i) |
 | [0585-investments-in-2016](https://github.com/KajalJadhao07/DSA/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/KajalJadhao07/DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
