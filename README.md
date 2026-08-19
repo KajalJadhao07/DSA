@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KajalJadhao07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/KajalJadhao07/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/KajalJadhao07/DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KajalJadhao07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KajalJadhao07/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/KajalJadhao07/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/KajalJadhao07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KajalJadhao07/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KajalJadhao07/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KajalJadhao07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/KajalJadhao07/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/KajalJadhao07/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/KajalJadhao07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KajalJadhao07/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -366,5 +369,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KajalJadhao07/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/KajalJadhao07/DSA/tree/master/0148-sort-list) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KajalJadhao07/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
