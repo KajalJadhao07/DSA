@@ -6,15 +6,17 @@ public:
         for(int i =0; i< nums.size(); i++){
             s.insert(nums[i]);
         }
-        int multiply = 1;
+        int multiply = k;
 
-        for(int i =0; i<=nums.size(); i++){
-            if(s.find(multiply*k) == s.end()){
-                return multiply*k;
+        while(true){
+            if(s.find(multiply) == s.end()){
+                return multiply;
             }
-            multiply += 1;
+
+            multiply += k;
         }
-        return (multiply+1)*k;
+
+        return multiply+k;
         
     }
 };
