@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/KajalJadhao07/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KajalJadhao07/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/KajalJadhao07/DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/KajalJadhao07/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/KajalJadhao07/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/KajalJadhao07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/KajalJadhao07/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KajalJadhao07/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/KajalJadhao07/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/KajalJadhao07/DSA/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/KajalJadhao07/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KajalJadhao07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KajalJadhao07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KajalJadhao07/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
