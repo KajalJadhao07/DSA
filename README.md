@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/KajalJadhao07/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/KajalJadhao07/DSA/tree/master/1140-stone-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KajalJadhao07/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KajalJadhao07/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KajalJadhao07/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KajalJadhao07/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KajalJadhao07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KajalJadhao07/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KajalJadhao07/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KajalJadhao07/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KajalJadhao07/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KajalJadhao07/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KajalJadhao07/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KajalJadhao07/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/KajalJadhao07/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KajalJadhao07/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KajalJadhao07/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KajalJadhao07/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KajalJadhao07/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
